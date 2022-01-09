@@ -5,8 +5,6 @@
  Profile views<br><br> <img src="https://profile-counter.glitch.me/Kamran-7/count.svg" /> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 </p> </h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kamran-7&show_icons=true&theme=radical">
-
 
 - 🌱 I’m currently learning   **AWS**
 
@@ -19,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/Kamran Sharief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran sharief" height="35" width="40" /></a>
+<a href="www.linkedin.com/in/kamran-sharief-485502203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran sharief" height="35" width="40" /></a>
 <a href="https://instagram.com/kam_ran_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kam_ran_7" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=9103551683" target="_blank"><img align="center" alt="Whatsapp" height="40" width="40px" src="https://www.herzog.ac.il/wp-content/uploads/2017/11/whatsapp-icon-logo-vector.png" /></a>
+<a href="https://api.whatsapp.com/send?phone=919103551683" target="_blank"><img align="center" alt="Whatsapp" height="40" width="40px" src="https://www.herzog.ac.il/wp-content/uploads/2017/11/whatsapp-icon-logo-vector.png" /></a>
 <a href="https://dev.to/kamran7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kamran7" height="40" width="40" /></a>
 <a href="mailto:kamraansharief7@gmail.com" target="_blank"><img align="center" alt="Gmail" height="40" width="40px" src="https://www.svgrepo.com/show/349378/gmail.svg" /></a>
 </p>
@@ -37,5 +35,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kamran-7&show_icons=true&theme=radical">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-7&" alt="kamran-7" /></p>
