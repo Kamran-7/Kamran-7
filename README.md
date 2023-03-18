@@ -20,7 +20,6 @@
 <a href="http://linkedin.com/in/kamran-sharief-485502203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kamran Sharief" height="35" width="40" /></a>
 <a href="https://instagram.com/kam_ran_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kam_ran_7" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=919103551683" target="_blank"><img align="center" alt="Whatsapp" height="40" width="40px" src="https://www.herzog.ac.il/wp-content/uploads/2017/11/whatsapp-icon-logo-vector.png" /></a>
-<a href="https://dev.to/kamran7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kamran7" height="40" width="40" /></a>
 <a href="mailto:kamraansharief7@gmail.com" target="_blank"><img align="center" alt="Gmail" height="40" width="40px" src="https://www.svgrepo.com/show/349378/gmail.svg" /></a>
 </p>
 
