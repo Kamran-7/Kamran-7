@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning   **AWS and DevOps**
 
-- 🤝 I’m looking for help with  **AWS+DevOps**
-
 - 💬 Ask me about  **anything related to tech stuff**
 
 - ⚡ Fun fact  **I make a lot of spelling mistakes 😒**
