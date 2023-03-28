@@ -21,7 +21,7 @@
 <a href="mailto:kamraansharief7@gmail.com" target="_blank"><img align="center" alt="Gmail" height="40" width="40px" src="https://www.svgrepo.com/show/349378/gmail.svg" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES & TOOLS:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
