@@ -10,8 +10,7 @@
 
 - 💬 Ask me about  **anything related to tech stuff**
 
-<!-- ⚡ Fun fact  **I make a lot of spelling mistakes 😒** -->
-
+ ⚡ Fun fact  **I make a lot of spelling mistakes 😒**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
