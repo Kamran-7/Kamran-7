@@ -11,7 +11,7 @@
 - 💬 Ask me about  **anything related to tech stuff**
 
  ⚡ Fun fact  **I make a lot of spelling mistakes 😒**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 
 <a href="http://linkedin.com/in/kamran-sharief-485502203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kamran Sharief" height="35" width="40" /></a>
