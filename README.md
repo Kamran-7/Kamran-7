@@ -24,7 +24,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/jenkins-1-logo.png" alt="jenkins" width="60" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" width="50" height="50"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" width="60" height="50"/> </a>
 <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://cncf-branding.netlify.app/img/projects/argo/horizontal/color/argo-horizontal-color.svg" alt="ArgoCD" width="60" height="60"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" alt="Kubernetes" width="50" height="50"/> </a></p>
 
